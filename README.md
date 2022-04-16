@@ -5,7 +5,7 @@
 解码器已失效无法播放
 其他功能及UI均可实现
 @Author:treeRoot
-@Email:553503639
+@Email:553503639@qq.com
 @Date:2022/04/16
 
 
