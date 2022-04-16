@@ -9,36 +9,23 @@
 @Date:2022/04/16
 
 
+### 可换肤MP3播放器的设计与实现
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 目的：分析当前流行的换肤编程技术，开发一个可以管理本地音乐库的MP3播放器，要求播放器可以更换2～3种皮肤。
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. 编程实现一个可以解码MP3的音乐播放器，可以使用解码控件；
+2. 播放器需要支持音乐库管理，包括本地MP3文件搜索、添加到音乐列表、从音乐列表中删除、建立音乐专辑；
+3. 支持2～3种皮肤的更换；
+
+### 运行方式：
+直接用IDE打开（推荐idea）
+### 无法运行？变成了J标志？
+解决方案
+点击File >> Project Structure：
+<br>
+在Project Structure页面选择 Project Settings 下的 Modules，点击右侧删除项目 Contect Root
+<br>
+点击 Add <br>
+确认会到项目界面，显示正常

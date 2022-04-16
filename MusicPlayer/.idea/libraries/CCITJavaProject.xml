@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CCITJavaProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jaudiotagger-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mp3spi1.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
